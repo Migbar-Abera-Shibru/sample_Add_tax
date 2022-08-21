@@ -1,0 +1,49 @@
+.taxinput{
+    width: 30rem;
+    height: 2rem;
+    margin: 10px;
+    color: gray;
+    border-radius: 5px;
+  }
+  .radio{
+    padding: 10px;
+  }
+  .thethree{
+    justify-content: column;
+    margin: 1rem;
+  
+  
+    
+  }
+  .theWhole{
+    margin-left: 2rem;
+    background-color: rgba(128, 128, 128, 0.375);
+    color: black;
+    padding: 5px;
+  }
+  .thecheck{
+    color: blue
+  }
+  .thefirst{
+    margin: 1rem;
+    margin-left: 2rem;
+  }
+  .thesecond{
+    margin: 1rem;
+    margin-left: 2rem;
+  }
+  .thethird{
+    margin: 1rem;
+    margin-left: 2rem;
+  }
+  .thefourth{
+    margin: 1rem;
+    margin-left: 2rem
+  }
+  .thefifth{
+    margin: 1rem;
+    margin-left: 2rem
+  }
+  .search{
+    margin-left: 1rem;
+  }
